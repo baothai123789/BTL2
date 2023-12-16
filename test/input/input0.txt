@@ -1,0 +1,9 @@
+MAXSIZE 5
+LAPSE aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+LAPSE bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+KOKUSEN
+LAPSE abababababababababababababababababaababab
+KEITEIKEN 1
+LIMITLESS 2
+CLEAVE 3
+HAND
